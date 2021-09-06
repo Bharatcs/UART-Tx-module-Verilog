@@ -1,2 +1,8 @@
-# UART-Tx-module-Verilog-
-UART-TX  Verilog module for serial communication.
+# UART-Tx-module
+UART-Tx verilog module for serial communication.
+
+>**freq_gen.v**  generates baud clock for the tx module
+
+
+
+>**uart_tx.v** : uart tx module
